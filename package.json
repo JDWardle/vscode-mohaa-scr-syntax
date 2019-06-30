@@ -1,0 +1,38 @@
+{
+    "name": "mohaa-scr",
+    "displayName": "MOHAA Morpheus Script (SCR)",
+    "description": "Syntax highlighting for the Medal of Honor Allied Assault Morpheous Script (scr) files",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.35.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "contributes": {
+        "languages": [
+            {
+                "id": "scr",
+                "aliases": [
+                    "MOHAA",
+                    "Morpheus Script",
+                    "scr"
+                ],
+                "extensions": [
+                    ".scr"
+                ],
+                "configuration": "./language-configuration.json"
+            }
+        ],
+        "grammars": [
+            {
+                "language": "scr",
+                "scopeName": "source.scr",
+                "path": "./syntaxes/scr.tmLanguage.json"
+            }
+        ]
+    },
+    "devDependencies": {
+        "js-yaml": "^3.13.1"
+    }
+}
