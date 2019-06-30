@@ -1,6 +1,6 @@
-# mohaa-scr README
+# vscode-mohaa-scr-syntax README
 
-This is the README for your extension "mohaa-scr". After writing up a brief description, we recommend including the following sections.
+This is the README for your extension "vscode-mohaa-scr-syntax". After writing up a brief description, we recommend including the following sections.
 
 ## Features
 

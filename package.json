@@ -1,6 +1,6 @@
 {
-    "name": "mohaa-scr",
-    "displayName": "MOHAA Morpheus Script (SCR)",
+    "name": "vscode-mohaa-scr-syntax",
+    "displayName": "MOHAA Morpheus Script (SCR) Syntax Grammar",
     "description": "Syntax highlighting for the Medal of Honor Allied Assault Morpheous Script (scr) files",
     "version": "0.0.1",
     "engines": {
