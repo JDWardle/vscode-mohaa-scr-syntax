@@ -4,6 +4,6 @@ All notable changes to the "vscode-mohaa-scr-syntax" extension will be documente
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [0.0.1] 2019-07-09
 
-- Initial release
+* Basic syntax highlighting for scr script files.

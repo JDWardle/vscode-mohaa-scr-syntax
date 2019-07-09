@@ -3,6 +3,7 @@
     "displayName": "MOHAA Morpheus Script (SCR) Syntax Grammar",
     "description": "Syntax highlighting for the Medal of Honor Allied Assault Morpheous Script (scr) files",
     "version": "0.0.1",
+    "publisher": "JDWardle",
     "engines": {
         "vscode": "^1.35.0"
     },
